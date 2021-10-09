@@ -4,5 +4,32 @@
 		<meta charset="UTF-8"/>
 		<title>Types of coral reefs</title>
 	</head>
-
+	<body>
+		<h1>Types</h1>
+		<header>
+			<section id="intro">
+			<p>Since Darwin's identification of the three classical reef formations – the fringing reef around a volcanic island becoming a barrier reef and then an atoll[30] – scientists have identified further reef types. While some sources find only three,[31][32] Thomas and Goudie list four "principal large-scale coral reef types" – the fringing reef, barrier reef, atoll and table reef[33] – while Spalding et al. list five "main types" – the fringing reef, barrier reef, atoll, "bank or platform reef" and patch reef.[34]</p>
+			</section>			
+		</header>
+		<article>
+			<h2>Fringing reef</h2>
+			<p>A fringing reef, also called a shore reef,[35] is directly attached to a shore,[36] or borders it with an intervening narrow, shallow channel or lagoon.[37] It is the most common reef type.[37] Fringing reefs follow coastlines and can extend for many kilometres.[38] They are usually less than 100 metres wide, but some are hundreds of metres wide.[39] Fringing reefs are initially formed on the shore at the low water level and expand seawards as they grow in size. The final width depends on where the sea bed begins to drop steeply. The surface of the fringe reef generally remains at the same height: just below the waterline. In older fringing reefs, whose outer regions pushed far out into the sea, the inner part is deepened by erosion and eventually forms a lagoon.[40] Fringing reef lagoons can become over 100 metres wide and several metres deep. Like the fringing reef itself, they run parallel to the coast. The fringing reefs of the Red Sea are "some of the best developed in the world" and occur along all its shores except off sandy bays.[41]</p>
+			<figure>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Saumriff1.png" alt="">
+				<figcaption>Fringing reef</figcaption>
+			</figure>
+			<h2>Barrier reef</h2>
+			<p>Barrier reefs are separated from a mainland or island shore by a deep channel or lagoon.[37] They resemble the later stages of a fringing reef with its lagoon but differ from the latter mainly in size and origin. Their lagoons can be several kilometres wide and 30 to 70 metres deep. Above all, the offshore outer reef edge formed in open water rather than next to a shoreline. Like an atoll, it is thought that these reefs are formed either as the seabed lowered or sea level rose. Formation takes considerably longer than for a fringing reef, thus barrier reefs are much rarer.The best known and largest example of a barrier reef is the Australian Great Barrier Reef.[37][42] Other major examples are the Belize Barrier Reef and the New Caledonian Barrier Reef.[42] Barrier reefs are also found on the coasts of Providencia,[42] Mayotte, the Gambier Islands, on the southeast coast of Kalimantan, on parts of the coast of Sulawesi, southeastern New Guinea and the south coast of the Louisiade Archipelago. </p>
+			<figure>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Barriereriff.png" alt="">
+				<figcaption>Barrier reef</figcaption>
+			</figure>
+			<h2>Platform reef</h2>
+			<p>Platform reefs, variously called bank or table reefs, can form on the continental shelf, as well as in the open ocean, in fact anywhere where the seabed rises close enough to the surface of the ocean to enable the growth of zooxanthemic, reef-forming corals.[43] Platform reefs are found in the southern Great Barrier Reef, the Swain[44] and Capricorn Group[45] on the continental shelf, about 100–200 km from the coast. Some platform reefs of the northern Mascarenes are several thousand kilometres from the mainland. Unlike fringing and barrier reefs which extend only seaward, platform reefs grow in all directions.[43] They are variable in size, ranging from a few hundred metres to many kilometres across. Their usual shape is oval to elongated. Parts of these reefs can reach the surface and form sandbanks and small islands around which may form fringing reefs. A lagoon may form In the middle of a platform reef.Platform reefs can be found within atolls. There they are called patch reefs and may reach only a few dozen metres in diameter. Where platform reefs form on an elongated structure, e. g. an old, eroded barrier reef, they can form a linear arrangement. This is the case, for example, on the east coast of the Red Sea near Jeddah. In old platform reefs, the inner part can be so heavily eroded that it forms a pseudo-atoll.[43] These can be distinguished from real atolls only by detailed investigation, possibly including core drilling. Some platform reefs of the Laccadives are U-shaped, due to wind and water flow. </p>
+			<figure>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Plattformriff.png" alt="">
+				<figcaption>Platform reef</figcaption>
+			</figure>
+		</article>
+	</body>
 </html>
